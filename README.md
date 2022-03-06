@@ -4,11 +4,14 @@ I will keep updating this regularly for a foreseeable period of time.
 
 #Crucial Finding
 
-![image](https://user-images.githubusercontent.com/45325095/156908530-8e8d7a3f-fa89-40fa-8373-fd221ccb68e4.png)
+![image](https://user-images.githubusercontent.com/45325095/156945994-a07e1469-a8bc-448a-807c-2fcd48d0af17.png)
+
 
 The property price strongly depends on:
 1. sqft 
 2. district (mean income of that district is a good reference whether that is prime region or not)
-3. distance from TTC subway stations (transportation score)
-4. number of bedroom
-5. parking 
+3. number of bedroom
+4. number of bathroom
+5. distance from TTC subway stations (transportation score)
+6. parking
+7. University-Spadina Line (Line 1) 
